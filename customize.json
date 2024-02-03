@@ -3,7 +3,7 @@
   "name": "Arya",
   "greetingText": "I love you so much!",
   "wishText": "Keep smiling always! ;)",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/dp.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy returns of the day...",
   "sendButtonLabel": "Send",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "I hope you liked it!",
+  "replayText": "Click here to watch it again.",
   "outroSmiley": ":)"
 }
